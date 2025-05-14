@@ -14,7 +14,6 @@ creditcard-fraud-detection/
 │   ├── eda_plots/               # Auto-saved EDA images
 │   ├── model_plots/             # Decision tree, etc.
 ├── data/                        # (Not included in repo, place your CSV here)
-├── [creditcard_fraud_detection_notebook](https://colab.research.google.com/drive/1-8Qtbw47T2QZEJEixNPSzvrN33GgRs3W?usp=sharing)
 ├── main.py                      # Run all analysis
 ├── requirements.txt             # Dependencies
 ├── README.md                    # Project description
@@ -22,6 +21,7 @@ creditcard-fraud-detection/
 
 ##  Dataset
 
+- You will find the notebook [creditcard_fraud_detection_notebook](https://colab.research.google.com/drive/1-8Qtbw47T2QZEJEixNPSzvrN33GgRs3W?usp=sharing) here.
 - Based on the [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Features are anonymized via PCA (V1–V28) plus `Time`, `Amount`, and `Class`
 
