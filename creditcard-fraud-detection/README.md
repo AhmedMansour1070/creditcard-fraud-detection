@@ -14,6 +14,7 @@ creditcard-fraud-detection/
 │   ├── eda_plots/               # Auto-saved EDA images
 │   ├── model_plots/             # Decision tree, etc.
 ├── data/                        # (Not included in repo, place your CSV here)
+├── [creditcard_fraud_detection_notebook](https://colab.research.google.com/drive/1-8Qtbw47T2QZEJEixNPSzvrN33GgRs3W?usp=sharing)
 ├── main.py                      # Run all analysis
 ├── requirements.txt             # Dependencies
 ├── README.md                    # Project description
